@@ -1,6 +1,6 @@
 Overview
 
-This project implements a GPU-accelerated Retrieval-Augmented Generation (RAG) system built on the Ramayan corpus.
+This project implements a Retrieval-Augmented Generation (RAG) system built on the Ramayan corpus.
 It enables contextual question answering by combining semantic search with a locally hosted Mistral LLM from Hugging Face.
 The system retrieves relevant passages from the Ramayan and generates grounded responses using a large language model.
 
